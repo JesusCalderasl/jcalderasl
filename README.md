@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jesús Calderas</h1>
-<h3 align="center">Programmer💻 YouTube▶️ from Guatemala💙</h3>
+<h3 align="center">Frontend Developer💻 YouTube▶️ from Guatemala💙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcalderasl&label=Profile%20views&color=0e75b6&style=flat" alt="jcalderasl" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jesusantonio_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jesusantonio_21" height="30" width="40" /></a>
